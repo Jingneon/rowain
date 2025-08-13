@@ -3,13 +3,14 @@
 > **기간**: 2024.11.12 ~ 2025.01.06  
 > **역할**: UI/UX 설계 · 프론트엔드 개발
 
----
+<img width="7672" height="3968" alt="rowain_blur_ver 1" src="https://github.com/user-attachments/assets/746524b3-22f8-4e38-953f-dd11a7c88dab" />
+
 
 ## 📌 프로젝트 개요
 Flutter 기반의 프론트엔드 환경에서 **6자유도 로봇팔 제어 UI**를 구축한 사내용 소프트웨어입니다.  
 사용자 직관성을 높이기 위해 3D 모델 기반의 인터페이스를 적용하고, **UDP 통신**을 통한 실시간 제어 및 상태 모니터링 기능을 구현했습니다.
 
----
+
 
 ## 🛠 기술 스택
 - **Frontend**: Flutter, Dart  
@@ -17,7 +18,7 @@ Flutter 기반의 프론트엔드 환경에서 **6자유도 로봇팔 제어 UI*
 - **Network**: UDP, Datagram  
 - **UI/UX**: Responsive Design, 3D Interaction
 
----
+
 
 ## 🚀 주요 기능
 
@@ -44,7 +45,7 @@ Flutter 기반의 프론트엔드 환경에서 **6자유도 로봇팔 제어 UI*
 - UDP 통신 기반 실시간 센서 데이터 표시
 - 데이터 스트림 UI 연동
 
----
+
 
 ## ⚙ 개발 과정 & 고려사항
 - **UI/UX 최적화**: 초기 단순 버튼 UI → 3D 모델 기반 인터페이스로 개선
@@ -52,14 +53,16 @@ Flutter 기반의 프론트엔드 환경에서 **6자유도 로봇팔 제어 UI*
 - **통신 안정성 강화**: UDP 패킷 구조 개선, 연결 상태 확인 로직 추가
 - **안전성**: 비상 정지 및 전원 토글의 즉각 반응 구조 설계
 
----
+
 
 ## 📽 실행 예시
 
 ### 1. 네트워크 상태 모니터링
+<img width="446" height="628" alt="rowain_blur_ver_11111" src="https://github.com/user-attachments/assets/28c49fe2-9c1f-4002-9e9e-634189cd641c" />
+
 - **Ping**을 활용해 네트워크 연결 상태를 실시간으로 확인
 
----
+
 
 ### 2. 센서 데이터 모니터링
 - **UDP 통신**으로 센서 데이터 수집
@@ -67,21 +70,21 @@ Flutter 기반의 프론트엔드 환경에서 **6자유도 로봇팔 제어 UI*
 - 실시간 데이터 UI 반영, 데이터 변경 시 자동 업데이트
 - 불필요한 UI 리빌드는 Cubit으로 상태관리
 
----
+
 
 ### 3. 로봇 제어 버튼 UI
 - 직관적인 버튼 배치로 제어 효율 향상
 - 버튼 클릭 시 즉시 반응
 - 기능별 색상 구분 및 아이콘 표시
 
----
+
 
 ### 4. 학습 모드
 - 최대 **500건** 동작 기록 저장
 - 기록된 동작 재실행 가능
 - 실행/중지 시 UI 상태 변경
 
----
+
 
 ### 5. 비상 정지(EMO) / 전원 토글
 - 비상 정지 시 즉각 모든 동작 중단
@@ -89,7 +92,7 @@ Flutter 기반의 프론트엔드 환경에서 **6자유도 로봇팔 제어 UI*
 - 상태 변경 시 UI와 네트워크 패킷 동기화
 
 ### 6. 리사이징 가능한 UI
-<img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/26e3ccdb-413d-499e-abaa-245b1de390a4" />
+![0315(1) (1) (1) (1) (2) (online-video-cutter com)](https://github.com/user-attachments/assets/f6cbe7b0-fddf-4b65-9d16-c34a1edb5176)
 - 16:9 비율 유지
 - 위젯 폰트 깨짐 x (보안상 blur 처리)
 

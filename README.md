@@ -113,7 +113,7 @@ Flutter 기반의 프론트엔드 환경에서 **6자유도 로봇팔 제어 UI*
 
 <!-- 리사이징 가능한 UI -->
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src="https://github.com/user-attachments/assets/f6cbe7b0-fddf-4b65-9d16-c34a1edb5176" width="300" style="margin-right: 20px;">
+  <img src="https://github.com/user-attachments/assets/f6cbe7b0-fddf-4b65-9d16-c34a1edb5176" width="600" style="margin-right: 20px;">
   <div>
     <h3>리사이징 가능한 UI</h3>
     <ul>

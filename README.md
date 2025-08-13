@@ -3,7 +3,7 @@
 > **기간**: 2024.11.12 ~ 2025.01.06  
 > **역할**: UI/UX 설계 · 프론트엔드 개발
 
-<img width="7000" alt="rowain_blur_ver 1" src="https://github.com/user-attachments/assets/746524b3-22f8-4e38-953f-dd11a7c88dab" />
+<img width="6500" alt="rowain_blur_ver 1" src="https://github.com/user-attachments/assets/746524b3-22f8-4e38-953f-dd11a7c88dab" />
 
 
 ## 프로젝트 개요
@@ -77,7 +77,7 @@ Flutter 기반의 프론트엔드 환경에서 **6자유도 로봇팔 제어 UI*
 
 
 ### 학습 모드
-<img src="https://github.com/user-attachments/assets/f4e3144a-0258-43d1-8212-bcdea5839d40" width="400">
+<img src="https://github.com/user-attachments/assets/f4e3144a-0258-43d1-8212-bcdea5839d40" width="300">
 
 - 최대 **500건** 동작 기록 저장
 - 기록된 동작 재실행 가능
@@ -86,7 +86,7 @@ Flutter 기반의 프론트엔드 환경에서 **6자유도 로봇팔 제어 UI*
 
 
 ### 비상 정지(EMO) / 전원 토글
-<img src="https://github.com/user-attachments/assets/b8bc8dc2-1cf6-4309-9a41-bb04e9d34e20" width="400">
+<img src="https://github.com/user-attachments/assets/b8bc8dc2-1cf6-4309-9a41-bb04e9d34e20" width="300">
 
 - 비상 정지 시 즉각 모든 동작 중단
 - 전원 토글 버튼으로 장비 전원 관리

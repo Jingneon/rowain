@@ -3,7 +3,7 @@
 > **기간**: 2024.11.12 ~ 2025.01.06  
 > **역할**: UI/UX 설계 · 프론트엔드 개발
 
-<img width="7672" height="3968" alt="rowain_blur_ver 1" src="https://github.com/user-attachments/assets/746524b3-22f8-4e38-953f-dd11a7c88dab" />
+<img width="7000" alt="rowain_blur_ver 1" src="https://github.com/user-attachments/assets/746524b3-22f8-4e38-953f-dd11a7c88dab" />
 
 
 ## 프로젝트 개요
@@ -58,7 +58,7 @@ Flutter 기반의 프론트엔드 환경에서 **6자유도 로봇팔 제어 UI*
 ## 실행 예시
 
 ### 네트워크 상태 모니터링 & 센서 데이터 모니터링
-<img width="246" height="428" alt="rowain_blur_ver_11111" src="https://github.com/user-attachments/assets/28c49fe2-9c1f-4002-9e9e-634189cd641c" />
+<img width="246" alt="rowain_blur_ver_11111" src="https://github.com/user-attachments/assets/28c49fe2-9c1f-4002-9e9e-634189cd641c" />
 
 - **Ping**을 활용해 네트워크 연결 상태를 실시간으로 확인
 - **UDP 통신**으로 센서 데이터 수집
@@ -68,8 +68,7 @@ Flutter 기반의 프론트엔드 환경에서 **6자유도 로봇팔 제어 UI*
 
 
 ### 로봇 제어 버튼 UI
-![0314 (1)(3)](https://github.com/user-attachments/assets/e0909539-a86b-4bcb-8811-91392da643a7)
-<img src="https://github.com/user-attachments/assets/e0909539-a86b-4bcb-8811-91392da643a7" width="400">
+<img src="https://github.com/user-attachments/assets/e0909539-a86b-4bcb-8811-91392da643a7" width="600">
 
 - 직관적인 버튼 배치로 제어 효율 향상
 - 버튼 클릭 시 즉시 반응
@@ -78,7 +77,7 @@ Flutter 기반의 프론트엔드 환경에서 **6자유도 로봇팔 제어 UI*
 
 
 ### 학습 모드
-![0314 (1)(1) (1) (1)](https://github.com/user-attachments/assets/f4e3144a-0258-43d1-8212-bcdea5839d40)
+<img src="https://github.com/user-attachments/assets/f4e3144a-0258-43d1-8212-bcdea5839d40" width="400">
 - 최대 **500건** 동작 기록 저장
 - 기록된 동작 재실행 가능
 - 실행/중지 시 UI 상태 변경
@@ -86,13 +85,13 @@ Flutter 기반의 프론트엔드 환경에서 **6자유도 로봇팔 제어 UI*
 
 
 ### 비상 정지(EMO) / 전원 토글
-![0314 (1)(2)](https://github.com/user-attachments/assets/b8bc8dc2-1cf6-4309-9a41-bb04e9d34e20)
+<img src="https://github.com/user-attachments/assets/b8bc8dc2-1cf6-4309-9a41-bb04e9d34e20" width="400">
 - 비상 정지 시 즉각 모든 동작 중단
 - 전원 토글 버튼으로 장비 전원 관리
 - 상태 변경 시 UI와 네트워크 패킷 동기화
 
 ### 리사이징 가능한 UI
-![0315(1) (1) (1) (1) (2) (online-video-cutter com)](https://github.com/user-attachments/assets/f6cbe7b0-fddf-4b65-9d16-c34a1edb5176)
+<img src="https://github.com/user-attachments/assets/f6cbe7b0-fddf-4b65-9d16-c34a1edb5176" width="400">
 - 16:9 비율 유지
 - 위젯 폰트 깨짐 x (보안상 blur 처리)
 
